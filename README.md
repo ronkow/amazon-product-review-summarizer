@@ -23,38 +23,37 @@ A data instance:
 }
 ```
 
-Sample output:
+Output for the product in the data instance above:
 ```
 **** PRODUCT REVIEW SUMMARIZER ****
 
-Index: 6807
-Product ID: B009EARUFU
+Index: 6806
+Product ID: 120401325X
 Number of reviews: 7
 
 Sample reviews:
 
 Review 1:
- Came on time and as described. The color isn't really the color in the picture though. I don't really like it but I guess that's my problem now! I've seen the teal one though in person, if I were you I'd get that one! Much prettier!
+ They look good and stick good! I just don't like the rounded shape because I was always bumping it and Siri kept popping up and it was irritating. I just won't buy a product like this again
 
 Review 2:
- The color is lighter than what is pictured, but it's still pretty.  Case is very snug and seems like it will protect my iPhone 5 well.  The only complaint I have is that the case makes it hard to press down on the power button, but other than that it is a great case for the price.*UPDATE*: After having the case for a couple of weeks I have found that it gets very dirty! and any dirt, stains, or color transfer you get on it cannot be cleaned off.  So disappointing! I'd recommend getting the black one. I will probably be ordering that one soon.
+ These stickers work like the review says they do. They stick on great and they stay on the phone. They are super stylish and I can share them with my sister. :)
 
 Review 3:
- great quality, and its so cool that it is textured. fits my iphone 5 perfectly. its a really awesome case
+ These are awesome and make my phone look so stylish! I have only used one so far and have had it on for almost a year! CAN YOU BELIEVE THAT! ONE YEAR!! Great quality!
 
 
 SUMMARY KEYPHRASES:
 
-awesome case
-case
-fit silicon case
-great case
-iphone 5 case
-not write reviews
-one though
-phone
-phone case
-really awesome case
-totally worth buying
-very nice iphone
+big deal
+free screen protector
+great deal
+great quality
+great time
+look
+multiple apple products
+one year
+phone look
+stick good
+super stylish
 ```
