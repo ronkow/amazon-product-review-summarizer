@@ -9,17 +9,16 @@ We use the following dataset from the section **"Small" subsets for experimentat
 
 A data instance:
 ```
-{    
-    "reviewerID": "A30TL5EWN6DFXT", 
-    "asin": "120401325X", 
-    "reviewerName": "christina", 
-    "helpful": [0, 0], 
-    "reviewText": "They look good and stick good! I just don't like the rounded shape because I was always bumping it and Siri kept popping up and it was   
-        irritating. I just won't buy a product like this again", 
-    "overall": 4.0, 
-    "summary": "Looks Good", 
-    "unixReviewTime": 1400630400, 
-    "reviewTime": "05 21, 2014"
+{
+    "reviewerID": "A3U8HK7BNWPB53", 
+    "asin": "B00AA6CS86", 
+    "reviewerName": "Alex Limon", 
+    "helpful": [0, 1], 
+    "reviewText": "Very portable. It works perfectly for my needs (quick trips). Now I have an additional full charge when is not a power source near by.", 
+    "overall": 5.0, 
+    "summary": "great", 
+    "unixReviewTime": 1398297600, 
+    "reviewTime": "04 24, 2014"
 }
 ```
 
@@ -27,33 +26,38 @@ Output for the product in the data instance above:
 ```
 **** PRODUCT REVIEW SUMMARIZER ****
 
-Index: 6806
-Product ID: 120401325X
-Number of reviews: 7
+Index: 1005
+Product ID: B00AA6CS86
+Number of reviews: 38
 
 Sample reviews:
 
 Review 1:
- They look good and stick good! I just don't like the rounded shape because I was always bumping it and Siri kept popping up and it was irritating. I just won't buy a product like this again
+ Very portable. It works perfectly for my needs (quick trips). Now I have an additional full charge when is not a power source near by.
 
 Review 2:
- These stickers work like the review says they do. They stick on great and they stay on the phone. They are super stylish and I can share them with my sister. :)
+ The size is great, not too heavy. Purchased to use on vacation to use my iphone as my camera and be able to recharge while out and about. It worked perfectly a couple of times. The third time I plugged in my phone or ipad, and no response, nothing. This was after it had been fully charged the day before, then put in my bag, unused. It's supposed to hold a charge for 6 months. I plugged the jackery into ac to charge and it was at 3 of 4. It then worked fine for the rest of the day. Had same issue a couple of days later. Not too handy if it inexplicably won't work occasionally. I don't know if I got a bad one.Currently deciding whether to return it or contact jackery for a replacement.When it did work it was fantastic - quickly and fully recharged my iphone 5 with a little bit of charge to spare. Definitely can't get much more than one full charge out of it. I also used it a couple of times to  give a small boost charge to my ipad.
 
 Review 3:
- These are awesome and make my phone look so stylish! I have only used one so far and have had it on for almost a year! CAN YOU BELIEVE THAT! ONE YEAR!! Great quality!
+ Read my review under the Jackery Giant 10400mAh.  Love this charger.  I've purchased 3 Jackery products and would recommend all three.
 
 
 SUMMARY KEYPHRASES:
 
-big deal
-free screen protector
-great deal
-great quality
-great time
-look
-multiple apple products
-one year
-phone look
-stick good
-super stylish
+battery power level
+compact charger fits
+enough charge capacity
+first mini jackery
+full charge
+great emergency charger
+iphone charging cable
+jackery mini
+jackery mini gold
+phone
+phone battery get
+portable battery charger
+portable charger
+power pack fit
+small battery pack
+very nice charger
 ```
