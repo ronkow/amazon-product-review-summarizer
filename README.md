@@ -1,6 +1,6 @@
 # keyphrase-summarizer
 
-Download the Amazon data from: 
+As the Amazon product review dataset is too large, please download it from: 
 #### http://jmcauley.ucsd.edu/data/amazon/index_2014.html
 
 We use the following dataset from the section **"Small" subsets for experimentation**:  
@@ -27,39 +27,34 @@ Sample output:
 ```
 **** PRODUCT REVIEW SUMMARIZER ****
 
-Index: 1001
-Product ID: B0087GALZI
-Number of reviews: 38
+Index: 6807
+Product ID: B009EARUFU
+Number of reviews: 7
 
 Sample reviews:
 
 Review 1:
- Everyone asks about it, it's just right for my GS3 and protects it well. Would buy again , love the style and color
+ Came on time and as described. The color isn't really the color in the picture though. I don't really like it but I guess that's my problem now! I've seen the teal one though in person, if I were you I'd get that one! Much prettier!
 
 Review 2:
- Fits perfect on the cell phone and I love the design and colors.  Doesn't slip so stays put.  Fast and packaged good.
+ The color is lighter than what is pictured, but it's still pretty.  Case is very snug and seems like it will protect my iPhone 5 well.  The only complaint I have is that the case makes it hard to press down on the power button, but other than that it is a great case for the price.*UPDATE*: After having the case for a couple of weeks I have found that it gets very dirty! and any dirt, stains, or color transfer you get on it cannot be cleaned off.  So disappointing! I'd recommend getting the black one. I will probably be ordering that one soon.
 
 Review 3:
- I am impressed with this cover/case, I purchased two, one purple and one clear. They are both consistent in the way they fit my phone. I also purchased the Incipio SA-301 Feather Ultra-Light Hard Shell Case, which I love, but I feel a bit more secure with the Cimo in regards to dropping the phone and it landing face down. The Cimo has more of a 'rim' of protection around the front and it seems it may provide enough height that it could save the face of the phone. The cover/case has a nice feel, not a gummy or dull appearance, and it is flexible while still giving 'hard' case protection.
+ great quality, and its so cool that it is textured. fits my iphone 5 perfectly. its a really awesome case
 
 
 SUMMARY KEYPHRASES:
 
+awesome case
 case
-case fit
-cruzerlite tpu case
-different tpu case
-matte tpu case
-much better case
-nice simple case
+fit silicon case
+great case
+iphone 5 case
+not write reviews
+one though
 phone
-silicon feeling case
-slim fit case
-smoke color case
-softest tpu case
-tpu case
-tpu case makers
-transparent cover case
-very good case
-white phone
+phone case
+really awesome case
+totally worth buying
+very nice iphone
 ```
