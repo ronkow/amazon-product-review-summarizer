@@ -14,7 +14,7 @@ A data instance:
     "asin": "B00AA6CS86", 
     "reviewerName": "Alex Limon", 
     "helpful": [0, 1], 
-    "reviewText": "Very portable. It works perfectly for my needs (quick trips). Now I have an additional full charge when is not a power source near by.", 
+    "reviewText": "Very portable. It works perfectly for my needs (quick trips).  Now I have an additional full charge when is not a power source near by.", 
     "overall": 5.0, 
     "summary": "great", 
     "unixReviewTime": 1398297600, 
