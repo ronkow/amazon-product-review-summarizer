@@ -701,8 +701,3 @@ idf = compute_idf(df_allreview)
 
 product_index = 1005
 main(product_index)
-
-
-
-
-
