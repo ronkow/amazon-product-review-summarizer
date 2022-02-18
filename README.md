@@ -1,4 +1,4 @@
-# keyphrase-summarizer
+# Amazon product review summarizer
 
 As the Amazon product review dataset is too large, please download it from: 
 #### http://jmcauley.ucsd.edu/data/amazon/index_2014.html
