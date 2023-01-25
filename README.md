@@ -1,5 +1,10 @@
 # Amazon product review summarizer
 
+This application extracts information from Amazon product reviews to summarize the content and sentiments of the reviews.
+
+Please read the project report for details:  
+https://github.com/ronkow/amazon-review-summarizer/blob/main/project_report/project_report.pdf
+
 As the Amazon product review dataset is too large, please download it from: 
 #### http://jmcauley.ucsd.edu/data/amazon/index_2014.html
 
